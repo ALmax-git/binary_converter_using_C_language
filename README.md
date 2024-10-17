@@ -1,6 +1,6 @@
 # Binary Converter
 
-Binary Converter is a C-based application using GTK for creating a graphical user interface (GUI) to convert binary numbers into their decimal equivalents. This advanced converter is built by **The Great ChatGPT** and **ALmax** to provide an interactive and user-friendly experience, with features such as dark mode, real-time conversion on input events, and a built-in console for process logs.
+Binary Converter is a C-based application using GTK for creating a graphical user interface (GUI) to convert binary numbers into their decimal equivalents. This advanced converter is built by **ALmax** to provide an interactive and user-friendly experience, with features such as dark mode, real-time conversion on input events, and a built-in console for process logs.
 
 ## Features
 
